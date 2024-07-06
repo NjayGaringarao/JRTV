@@ -5,8 +5,8 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:JRTV"
     xmlns:views="clr-namespace:JRTV.Views"
-    Shell.FlyoutBehavior="Disabled"
-    Title="JRTV">
+    Title="JRTV"
+    Shell.FlyoutBehavior="Disabled">
 
     <ShellContent
         Title="Home"
